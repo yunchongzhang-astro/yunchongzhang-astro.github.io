@@ -1,13 +1,12 @@
 ---
 layout: page
-title: submenus
+title: Random
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: films
+    permalink: /films/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  
 ---
