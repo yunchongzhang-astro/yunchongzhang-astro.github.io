@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: films
 title: My all time favorites
 permalink: /films/
 nav: false
