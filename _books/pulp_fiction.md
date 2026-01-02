@@ -13,7 +13,7 @@ finished:
 released: 1994
 stars: 
 goodreads_review: 
-status: 
+status: Dope
 ---
 
 > Five-Dollar-Shake, Big-Kahuna-Burger, & Ketchup!
