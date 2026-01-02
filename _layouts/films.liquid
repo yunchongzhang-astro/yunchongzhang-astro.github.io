@@ -12,12 +12,11 @@ layout: page
         {% unless forloop.first %}
           </ul>
         {% endunless %}
-        <h1 id="y{{item.date | date: "%Y"}}">
+        <h1 id="y{{item.released | date: "%Y"}}">
           <a href="{{ released_year | prepend: '/films/' | relative_url }}">{{ released_year }}</a>
         </h1>
         <ul>
           
-      
 
       <figure class="cover">
         <a class="cover-link" href="{{ item.url | relative_url }}">
