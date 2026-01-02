@@ -30,8 +30,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/films/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
+            },{id: "books-pulp-fiction",
+          title: 'Pulp Fiction',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
