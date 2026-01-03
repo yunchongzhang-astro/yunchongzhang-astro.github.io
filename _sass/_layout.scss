@@ -5,9 +5,11 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
-  background-image: url('{{ "/assets/images/uncover.jpg" | relative_url }}');
-
+  //background-color: var(--global-bg-color);
+  background-image: var(--global-bg-img);
+  background-size: cover;
+  background-attachment: fixed;
+  
   h1,
   h2,
   h3,
